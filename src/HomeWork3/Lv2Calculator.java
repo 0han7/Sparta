@@ -2,7 +2,6 @@ package HomeWork3;
 
 public class Lv2Calculator {
 
-    public class Calculator {
         public static void main(String[] args) {
             App cal = new App();
 
@@ -14,4 +13,3 @@ public class Lv2Calculator {
             cal.calculate2(cal.number3, cal.sign2);
         }
     }
-}
